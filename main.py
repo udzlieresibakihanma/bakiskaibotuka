@@ -67,7 +67,7 @@ async def prefix (ctx):
 
 	
 
-client.run('OTkxNzcxNzgxOTUyMTkyNjIz.GzS-JX.g1fLx1r-VIFFOmoj9Fv9BIMustzYa4-GE8OZjo')
+client.run('OTkxNzcxNzgxOTUyMTkyNjIz.GPA4ry.hjuZJDJdBbjAQjadvxh5OSAmYblyVu0qAcDzhw')
 
 
 
